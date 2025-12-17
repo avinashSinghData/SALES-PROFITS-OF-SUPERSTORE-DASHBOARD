@@ -1,6 +1,9 @@
 # SALES-PROFITS-ANALYSIS-OF-SUPERSTORE-DASHBOARD
 Sales and profit analysis dashboard built using the US Superstore dataset.
 
+**DASHBOARD PDF**  
+GitHub may not render the file in the browser. Please download to view the full dashboard.
+
 **TITLE**
 Sales and profit Analysis of Superstore — Power BI, Excel
 
